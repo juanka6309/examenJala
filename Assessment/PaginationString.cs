@@ -14,9 +14,6 @@ namespace Assessment
         public  PaginationString(string source, int pageSize, IElementsProvider<string> provider,string typeSeparator)
         {
             data = provider.ProcessData(source, typeSeparator);
-            Console.WriteLine("cantidad de elementos " + data.LongCount());
-            Console.WriteLine("cantidad de elementos-- " + data.Count());
-
             currentPage = 1;
             this.pageSize = pageSize;
         }
@@ -73,15 +70,14 @@ namespace Assessment
 
         public int CurrentPage()
         {
-            print("number of pages.", data.Count().ToString());
+            print("number of pages", data.Count().ToString());
             return currentPage;
         }
 
         public int Pages()
         {
-           print("page quantity.", data.Count().ToString());
+           print("page quantity", data.Count().ToString());
           return  data.Count();
-          //  throw new System.NotImplementedException();
         }
 
         public void print(string text, string value)

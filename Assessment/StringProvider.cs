@@ -12,7 +12,6 @@ namespace Assessment
 
 
         public IEnumerable<string> ProcessData(string source,string typeString) {
-            Console.WriteLine("processdata");
             switch (typeString)
             {
                 case "1":

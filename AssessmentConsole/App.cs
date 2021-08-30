@@ -58,7 +58,6 @@ namespace AssessmentConsole
             bool exit = false;
             while(!exit)
             {
-                Console.WriteLine("Current Page:" + pagination.CurrentPage());
                  string option = GetOption(
                 @"Type: \n
                 1. First page
