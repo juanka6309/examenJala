@@ -1,0 +1,10 @@
+E:\examen\dev-program-assessment\Assessment\bin\Debug\netcoreapp3.1\Assessment.deps.json
+E:\examen\dev-program-assessment\Assessment\bin\Debug\netcoreapp3.1\Assessment.dll
+E:\examen\dev-program-assessment\Assessment\bin\Debug\netcoreapp3.1\Assessment.pdb
+E:\examen\dev-program-assessment\Assessment\obj\Debug\netcoreapp3.1\Assessment.csproj.AssemblyReference.cache
+E:\examen\dev-program-assessment\Assessment\obj\Debug\netcoreapp3.1\Assessment.GeneratedMSBuildEditorConfig.editorconfig
+E:\examen\dev-program-assessment\Assessment\obj\Debug\netcoreapp3.1\Assessment.AssemblyInfoInputs.cache
+E:\examen\dev-program-assessment\Assessment\obj\Debug\netcoreapp3.1\Assessment.AssemblyInfo.cs
+E:\examen\dev-program-assessment\Assessment\obj\Debug\netcoreapp3.1\Assessment.csproj.CoreCompileInputs.cache
+E:\examen\dev-program-assessment\Assessment\obj\Debug\netcoreapp3.1\Assessment.dll
+E:\examen\dev-program-assessment\Assessment\obj\Debug\netcoreapp3.1\Assessment.pdb
